@@ -1,0 +1,86 @@
+[
+  {
+    "app_id": 32,
+    "advertiser_id": 8,
+    "country_code": "UK",
+    "id": "97dd2a0f-6d42-4c63-8cd6-5270c19f20d6"
+  },
+  {
+    "app_id": 32,
+    "advertiser_id": 17,
+    "country_code": "UK",
+    "id": "5deacf2d-833a-4549-a398-20a0abeec0bc"
+  },
+  {
+    "app_id": 4,
+    "advertiser_id": 15,
+    "country_code": "IT",
+    "id": "2ae9fd3f-4c70-4d9f-9fe0-98cb2f0b7521"
+  },
+  {
+    "app_id": 22,
+    "advertiser_id": 20,
+    "country_code": "IT",
+    "id": "fbb52038-4db1-46d3-a4de-108fd12cbfc7"
+  },
+  {
+    "app_id": 9,
+    "advertiser_id": 32,
+    "country_code": "",
+    "id": "b15449b6-14c9-406b-bce9-749805dd6a3e"
+  },
+  {
+    "app_id": 24,
+    "advertiser_id": 27,
+    "country_code": "",
+    "id": "50fa7c0e-2a0a-4b1a-931d-75c92bd506b6"
+  },
+  {
+    "app_id": 5,
+    "advertiser_id": 12,
+    "country_code": null,
+    "id": "7d5488b6-db81-4a5e-87a0-6828bf75ec0a"
+  },
+  {
+    "app_id": 30,
+    "advertiser_id": 27,
+    "country_code": "DE",
+    "id": "8a391b7a-219e-4dc4-af11-8cd98e8165aa"
+  },
+  {
+    "app_id": 9,
+    "advertiser_id": 8,
+    "country_code": "US",
+    "id": "f9fe7a5d-5e14-45fa-88e6-438313712694"
+  },
+  {
+    "app_id": 21,
+    "advertiser_id": 10,
+    "country_code": "IT",
+    "id": "84365cb7-14d9-44de-a36e-ca5acc94af36"
+  },
+  {
+    "app_id": 35,
+    "advertiser_id": 33,
+    "country_code": "IT",
+    "id": "e96e4da4-9b15-421b-a2d0-437235945675"
+  },
+  {
+    "app_id": 6,
+    "advertiser_id": 13,
+    "country_code": "",
+    "id": "4f82500a-872d-46c6-bc2f-0005bda6a7a5"
+  },
+  {
+    "app_id": 5,
+    "advertiser_id": 12,
+    "country_code": null,
+    "id": "7d5488b6-db81-4a5e-87a0-6828bf75ec0a"
+  },
+  {
+    "app_id": 28,
+    "advertiser_id": 29,
+    "country_code": "US",
+    "id": "3cd54dd2-6858-4726-8629-e9d672a75591"
+  }
+]
